@@ -1,0 +1,22 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Data (optional - if files are too large)
+# *.csv
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
