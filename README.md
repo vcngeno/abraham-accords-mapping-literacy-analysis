@@ -1,5 +1,11 @@
 ![Abraham Accords Literacy Analysis](docs/abraham_accords_banner.jpg)
 
+## View Full Analysis
+
+**→ [View Interactive Notebook on nbviewer](https://nbviewer.org/github/vcngeno/abraham-accords-mapping-literacy-analysis/blob/main/Mapping_Literacy_for_the_Abraham_Accords_Nations.ipynb)** ← Recommended!
+
+*Note: GitHub may timeout on large notebooks with embedded visualizations. Use nbviewer for best experience.*
+
 # Abraham Accords Literacy Analysis
 **Mapping Literacy for Humanity: Where Words Are Needed Most**
 
@@ -78,7 +84,7 @@ View the interactive heat maps:
 - [Conflict Impact Map](visualizations/abraham_accords_conflict_impact_map.html)
 - [Temporal Animation 2010-2024](visualizations/abraham_accords_temporal_heat_map.html)
 
-## 📄 Data Sources
+## Data Sources
 
 - UNESCO Institute for Statistics (UIS)
 - World Bank Education Statistics
