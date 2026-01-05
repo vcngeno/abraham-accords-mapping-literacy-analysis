@@ -1,0 +1,6 @@
+Intervention_Name,Avg_Cost_Per_Person,Total_Beneficiaries_K,Start_Literacy,End_Literacy,Start_Year,End_Year,Country,Literacy_Improvement,Years_Active,Cost_Per_Point_Improved,Rank
+UAE_Compulsory_Education,22.4,600.0,54.0,96.0,1972,2021,UAE,42.0,49,0.5333333333333333,1
+Morocco_National_Program,32.09090909090909,8460.0,52.3,72.1,2014,2024,Morocco,19.799999999999997,10,1.6207529843893485,2
+Bahrain_Workplace_Mandate,42.15,23.0,85.0,97.5,1990,2024,Bahrain,12.5,34,3.372,3
+Israel_Ulpan_Method,362.3333333333333,90.0,85.0,97.8,1949,2024,Israel,12.799999999999997,75,28.30729166666667,4
+UAE_National_Strategy,75.0,270.0,95.8,96.3,2016,2024,UAE,0.5,8,150.0,5
