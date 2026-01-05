@@ -9,21 +9,16 @@
 
 ## Project Overview
 
-Data science analysis identifying literacy gaps across Abraham Accords nations (Israel, UAE, Bahrain, Morocco, Sudan) in support of UN Sustainable Development Goal 4 (Quality Education).## 📋 Project Overview
-
 Data science analysis identifying literacy gaps across Abraham Accords nations (Israel, UAE, Bahrain, Morocco, Sudan) in support of UN Sustainable Development Goal 4 (Quality Education).
 
-**Student Lead:** Vanessa Ngeno  
-**Institution:** Yeshiva University - Master's in Data Analytics & Visualization  
-**Partners:** Peblink, Abraham Accords Educational Alliance, World Literacy Foundation
 
-## 🎯 Key Findings
+## Key Findings
 
 - **Morocco's $311M Investment:** Increased literacy from 47.7% to 72.1% (+24.4 points) with $1.62/point efficiency
 - **Sudan Crisis:** Literacy projected to decline by 2.9 points due to conflict (AALNI score: 115.7)
 - **Investment Impact:** Investment accounts for only 1.6% of literacy improvement; systemic factors (secondary education, gender equity, learning quality) drive 88.9% of results
 
-## 📊 Deliverables
+## Deliverables
 
 1. **Abraham Accords Literacy Need Index (AALNI)** - Composite vulnerability scoring
 2. **Interactive Heat Maps** - 3 GIS visualizations (HTML)
@@ -31,7 +26,7 @@ Data science analysis identifying literacy gaps across Abraham Accords nations (
 4. **2030 SDG Projections** - Only 3/5 countries will achieve 95% literacy target
 5. **Policy Brief** - $950M investment allocation with $735.6M optimization opportunity
 
-## 🗂️ Repository Structure
+## Repository Structure
 ```
 abraham-accords-literacy-analysis/
 ├── data/                          # Raw and cleaned datasets (8 CSV files)
@@ -43,7 +38,7 @@ abraham-accords-literacy-analysis/
 └── README.md                      # This file
 ```
 
-## 📈 Models & Methodology
+## Models & Methodology
 
 | Model | Purpose | Performance |
 |-------|---------|-------------|
