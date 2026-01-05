@@ -52,7 +52,7 @@ abraham-accords-literacy-analysis/
 | Random Forest | Feature importance | R² = 0.972, MAE = 2.22 points |
 | Prophet | 2030 SDG forecasting | 95% confidence intervals |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -63,7 +63,7 @@ Jupyter Notebook/Lab
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/abraham-accords-literacy-analysis.git
+git clone https://github.com/vcngeno/abraham-accords-literacy-analysis.git
 cd abraham-accords-literacy-analysis
 
 # Install dependencies
@@ -76,7 +76,7 @@ jupyter lab
 ### Run the Analysis
 Open `notebooks/Mapping_Literacy_for_the_Abraham_Accords_Nations.ipynb` and run all cells.
 
-## 📊 Interactive Visualizations
+## Interactive Visualizations
 
 View the interactive heat maps:
 - [Main Literacy Heat Map](visualizations/abraham_accords_literacy_heat_map.html)
@@ -91,27 +91,24 @@ View the interactive heat maps:
 - National Ministries of Education (5 countries)
 - Academic literature (Oxford, WLF, The Conversation)
 
-## 🤝 Acknowledgments
+## Acknowledgments
 
-This project was conducted as part of the Peblink Project Competition in partnership with:
-- Abraham Accords Educational Alliance
+This project was conducted as part of the Peblink Internship Project in partnership with:
+- The Abraham Accords Educational Alliance
 - World Literacy Foundation
 - World Literacy Research Center
 
-## 📧 Contact
+## Contact
 
 **Vanessa Ngeno**  
-Master's in Data Analytics & Visualization  
-Yeshiva University | Expected Graduation: December 2025  
+Master of Science in Data Analytics & Visualization
 
-## 📜 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
-## ⭐ Citation
+## Citation
 
-If you use this analysis in your research, please cite:
 ```
-Ngeno, V. (2025). Abraham Accords Literacy Analysis: Mapping Literacy for Humanity. 
-Yeshiva University. https://github.com/YOUR_USERNAME/abraham-accords-literacy-analysis
+Ngeno, V. (2025). The Abraham Accords Nations Literacy Analysis: Mapping Literacy for Humanity
 ```
