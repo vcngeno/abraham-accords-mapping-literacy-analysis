@@ -1,0 +1,166 @@
+Country,Indicator_Category,Indicator_Name,Total_Value,Male_Value,Female_Value,Urban_Value,Rural_Value,Data_Year,Source,Confidence_Level,Notes
+Israel,Literacy_Rates,Adult_Literacy_Rate_15plus,97.8,98.5,97.1,98.2,97.0,2022,UNESCO_2024,HIGH,
+Israel,Literacy_Rates,Youth_Literacy_Rate_15to24,99.0,99.2,98.8,99.2,98.5,2022,UNESCO_2024,HIGH,
+Israel,Gender_Parity,Adult_Literacy_GPI,0.986,,,,,2022,UNESCO_2024,HIGH,Female/Male ratio
+Israel,Gender_Parity,Youth_Literacy_GPI,0.996,,,,,2022,UNESCO_2024,HIGH,Female/Male ratio
+Israel,Gender_Parity,Primary_Enrollment_GPI,1.00,,,,,2022,World_Bank_EdStats,HIGH,
+Israel,Gender_Parity,Secondary_Enrollment_GPI,1.01,,,,,2022,World_Bank_EdStats,HIGH,
+Israel,Gender_Parity,Overall_Gender_Gap_Index,0.730,,,,,2025,WEF_Global_Gender_Gap_Report,HIGH,73% parity overall
+Israel,Enrollment_Completion,Primary_Enrollment_Rate,103.2,,,,,2022,World_Bank_EdStats,HIGH,>100% indicates over-age students
+Israel,Enrollment_Completion,Secondary_Enrollment_Rate,104.5,,,,,2022,World_Bank_EdStats,HIGH,
+Israel,Enrollment_Completion,Primary_Completion_Rate,99.8,,,,,2022,World_Bank_EdStats,HIGH,
+Israel,Enrollment_Completion,Secondary_Completion_Rate,96.2,,,,,2022,World_Bank_EdStats,HIGH,
+Israel,Enrollment_Completion,Out_of_School_Children_thousands,12,,,,,2022,UNESCO_UIS,HIGH,
+Israel,Teacher_Quality,Primary_Pupil_Teacher_Ratio,11,,,,,2022,UNESCO_UIS,HIGH,Students per teacher
+Israel,Teacher_Quality,Secondary_Pupil_Teacher_Ratio,12,,,,,2022,UNESCO_UIS,HIGH,
+Israel,Teacher_Quality,Pct_Trained_Teachers_Primary,98,,,,,2022,UNESCO_UIS,HIGH,
+Israel,Teacher_Quality,Govt_Expenditure_Education_Pct_GDP,6.2,,,,,2023,World_Bank,HIGH,
+Israel,Demographics,Population_Millions,9.3,,,,,2024,National_Statistics,HIGH,
+Israel,Demographics,Pct_Population_Under_25,38,,,,,2024,World_Bank,HIGH,
+Israel,Demographics,Illiterate_Population_Millions,0.20,0.07,0.13,,,2022,Calculated_from_UNESCO,HIGH,
+Israel,Demographics,GDP_per_Capita_USD,54700,,,,,2024,World_Bank,HIGH,
+Israel,Demographics,Poverty_Rate_Pct,18,,,,,2023,OECD,HIGH,
+Israel,Quality_Indicators,Digital_Literacy_Rate,88,,,,,2023,ITU,MEDIUM,
+Israel,Quality_Indicators,Numeracy_Proficiency_Pct,92,,,,,2022,PISA,HIGH,
+Israel,Quality_Indicators,PISA_Reading_Score,470,,,,,2022,OECD_PISA,HIGH,OECD average = 487
+Israel,Quality_Indicators,Early_Marriage_Rate_Girls_Under18,2,,,,,2023,UNICEF,HIGH,
+Israel,Disparities,Rural_Urban_Literacy_Gap_Points,1.2,,,,,,2022,Calculated,MEDIUM,Urban minus Rural
+
+UAE,Literacy_Rates,Adult_Literacy_Rate_15plus,96.3,96.7,95.8,97.0,93.5,2021,UNESCO_2024,HIGH,
+UAE,Literacy_Rates,Youth_Literacy_Rate_15to24,98.5,98.2,98.8,98.8,97.5,2021,UNESCO_2024,HIGH,
+UAE,Gender_Parity,Adult_Literacy_GPI,1.07,,,,,2021,DVV_International_2025,HIGH,Women higher than men
+UAE,Gender_Parity,Youth_Literacy_GPI,1.006,,,,,2021,UNESCO_2024,HIGH,
+UAE,Gender_Parity,Primary_Enrollment_GPI,1.01,,,,,2021,World_Bank_EdStats,HIGH,
+UAE,Gender_Parity,Secondary_Enrollment_GPI,1.08,,,,,2021,World_Bank_EdStats,HIGH,
+UAE,Gender_Parity,Overall_Gender_Gap_Index,0.715,,,,,2025,WEF_Global_Gender_Gap_Report,HIGH,71.5% parity
+UAE,Enrollment_Completion,Primary_Enrollment_Rate,112.5,,,,,2021,World_Bank_EdStats,HIGH,
+UAE,Enrollment_Completion,Secondary_Enrollment_Rate,98.3,,,,,2021,World_Bank_EdStats,HIGH,
+UAE,Enrollment_Completion,Primary_Completion_Rate,98.5,,,,,2021,World_Bank_EdStats,HIGH,
+UAE,Enrollment_Completion,Secondary_Completion_Rate,92.8,,,,,2021,World_Bank_EdStats,HIGH,
+UAE,Enrollment_Completion,Out_of_School_Children_thousands,45,,,,,2021,UNESCO_UIS,MEDIUM,
+UAE,Teacher_Quality,Primary_Pupil_Teacher_Ratio,13,,,,,2021,UNESCO_UIS,HIGH,
+UAE,Teacher_Quality,Secondary_Pupil_Teacher_Ratio,11,,,,,2021,UNESCO_UIS,HIGH,
+UAE,Teacher_Quality,Pct_Trained_Teachers_Primary,96,,,,,2021,UNESCO_UIS,HIGH,
+UAE,Teacher_Quality,Govt_Expenditure_Education_Pct_GDP,3.9,,,,,2023,World_Bank,HIGH,
+UAE,Demographics,Population_Millions,9.9,,,,,2024,National_Statistics,HIGH,
+UAE,Demographics,Pct_Population_Under_25,22,,,,,2024,World_Bank,HIGH,
+UAE,Demographics,Illiterate_Population_Millions,0.37,0.21,0.16,,,2021,Calculated_from_UNESCO,HIGH,
+UAE,Demographics,GDP_per_Capita_USD,88220,,,,,2024,World_Bank,HIGH,
+UAE,Demographics,Poverty_Rate_Pct,,,,,,,N/A,Not available
+UAE,Quality_Indicators,Digital_Literacy_Rate,92,,,,,2023,ITU,HIGH,
+UAE,Quality_Indicators,Numeracy_Proficiency_Pct,89,,,,,2022,National_Assessment,MEDIUM,
+UAE,Quality_Indicators,PISA_Reading_Score,435,,,,,2022,OECD_PISA,HIGH,Below OECD average
+UAE,Quality_Indicators,Early_Marriage_Rate_Girls_Under18,5,,,,,2023,UNICEF,MEDIUM,
+UAE,Disparities,Rural_Urban_Literacy_Gap_Points,3.5,,,,,,2021,Estimated,MEDIUM,
+
+Bahrain,Literacy_Rates,Adult_Literacy_Rate_15plus,97.5,98.4,95.7,98.0,95.8,2021,UNESCO_2024,HIGH,
+Bahrain,Literacy_Rates,Youth_Literacy_Rate_15to24,99.4,99.3,99.5,99.5,99.0,2021,UNESCO_2024,HIGH,
+Bahrain,Gender_Parity,Adult_Literacy_GPI,0.97,,,,,2021,UNESCO_2024,HIGH,
+Bahrain,Gender_Parity,Youth_Literacy_GPI,1.002,,,,,2021,UNESCO_2024,HIGH,
+Bahrain,Gender_Parity,Primary_Enrollment_GPI,1.00,,,,,2021,World_Bank_EdStats,HIGH,
+Bahrain,Gender_Parity,Secondary_Enrollment_GPI,1.07,,,,,2021,World_Bank_EdStats,HIGH,
+Bahrain,Gender_Parity,Overall_Gender_Gap_Index,0.656,,,,,2025,WEF_Global_Gender_Gap_Report,HIGH,65.6% parity
+Bahrain,Enrollment_Completion,Primary_Enrollment_Rate,103.8,,,,,2021,World_Bank_EdStats,HIGH,
+Bahrain,Enrollment_Completion,Secondary_Enrollment_Rate,102.1,,,,,2021,World_Bank_EdStats,HIGH,
+Bahrain,Enrollment_Completion,Primary_Completion_Rate,97.2,,,,,2021,World_Bank_EdStats,HIGH,
+Bahrain,Enrollment_Completion,Secondary_Completion_Rate,95.4,,,,,2021,World_Bank_EdStats,HIGH,
+Bahrain,Enrollment_Completion,Out_of_School_Children_thousands,8,,,,,2021,UNESCO_UIS,MEDIUM,
+Bahrain,Teacher_Quality,Primary_Pupil_Teacher_Ratio,10,,,,,2021,UNESCO_UIS,HIGH,
+Bahrain,Teacher_Quality,Secondary_Pupil_Teacher_Ratio,9,,,,,2021,UNESCO_UIS,HIGH,
+Bahrain,Teacher_Quality,Pct_Trained_Teachers_Primary,99,,,,,2021,UNESCO_UIS,HIGH,
+Bahrain,Teacher_Quality,Govt_Expenditure_Education_Pct_GDP,2.7,,,,,2023,World_Bank,HIGH,
+Bahrain,Demographics,Population_Millions,1.5,,,,,2024,National_Statistics,HIGH,
+Bahrain,Demographics,Pct_Population_Under_25,26,,,,,2024,World_Bank,HIGH,
+Bahrain,Demographics,Illiterate_Population_Millions,0.04,0.01,0.03,,,2021,Calculated_from_UNESCO,HIGH,
+Bahrain,Demographics,GDP_per_Capita_USD,60950,,,,,2024,World_Bank,HIGH,
+Bahrain,Demographics,Poverty_Rate_Pct,,,,,,,N/A,Not available
+Bahrain,Quality_Indicators,Digital_Literacy_Rate,89,,,,,2023,ITU,HIGH,
+Bahrain,Quality_Indicators,Numeracy_Proficiency_Pct,87,,,,,2022,National_Assessment,MEDIUM,
+Bahrain,Quality_Indicators,PISA_Reading_Score,419,,,,,2022,OECD_PISA,HIGH,
+Bahrain,Quality_Indicators,Early_Marriage_Rate_Girls_Under18,6,,,,,2023,UNICEF,MEDIUM,
+Bahrain,Disparities,Rural_Urban_Literacy_Gap_Points,2.2,,,,,,2021,Estimated,MEDIUM,
+
+Morocco,Literacy_Rates,Adult_Literacy_Rate_15plus,77.4,85.3,69.5,87.9,62.1,2024,HCP_Census_2024,HIGH,
+Morocco,Literacy_Rates,Youth_Literacy_Rate_15to24,95.6,98.2,93.0,98.5,88.2,2024,HCP_Census_2024,HIGH,
+Morocco,Gender_Parity,Adult_Literacy_GPI,0.815,,,,,2024,UNESCO_2024,HIGH,Major gender gap
+Morocco,Gender_Parity,Youth_Literacy_GPI,0.947,,,,,2024,UNESCO_2024,HIGH,
+Morocco,Gender_Parity,Primary_Enrollment_GPI,0.95,,,,,2023,World_Bank_EdStats,HIGH,
+Morocco,Gender_Parity,Secondary_Enrollment_GPI,0.89,,,,,2023,World_Bank_EdStats,HIGH,
+Morocco,Gender_Parity,Overall_Gender_Gap_Index,0.628,,,,,2025,WEF_Global_Gender_Gap_Report,HIGH,62.8% parity - Rank 137/148
+Morocco,Enrollment_Completion,Primary_Enrollment_Rate,105.2,,,,,2023,World_Bank_EdStats,HIGH,
+Morocco,Enrollment_Completion,Secondary_Enrollment_Rate,73.4,,,,,2023,World_Bank_EdStats,HIGH,Major dropout at secondary
+Morocco,Enrollment_Completion,Primary_Completion_Rate,88.3,,,,,2023,World_Bank_EdStats,HIGH,
+Morocco,Enrollment_Completion,Secondary_Completion_Rate,65.1,,,,,2023,World_Bank_EdStats,HIGH,
+Morocco,Enrollment_Completion,Out_of_School_Children_thousands,331,,,,,2023,UNESCO_UIS,HIGH,
+Morocco,Teacher_Quality,Primary_Pupil_Teacher_Ratio,27,,,,,2023,UNESCO_UIS,HIGH,Overcrowded
+Morocco,Teacher_Quality,Secondary_Pupil_Teacher_Ratio,23,,,,,2023,UNESCO_UIS,HIGH,
+Morocco,Teacher_Quality,Pct_Trained_Teachers_Primary,78,,,,,2023,UNESCO_UIS,HIGH,22% untrained
+Morocco,Teacher_Quality,Govt_Expenditure_Education_Pct_GDP,5.3,,,,,2023,World_Bank,HIGH,
+Morocco,Demographics,Population_Millions,37.1,,,,,2024,HCP,HIGH,
+Morocco,Demographics,Pct_Population_Under_25,44,,,,,2024,World_Bank,HIGH,Youth bulge
+Morocco,Demographics,Illiterate_Population_Millions,8.4,3.0,5.4,,,2024,Calculated_from_HCP,HIGH,64% are women
+Morocco,Demographics,GDP_per_Capita_USD,3890,,,,,2024,World_Bank,HIGH,
+Morocco,Demographics,Poverty_Rate_Pct,15,,,,,2023,World_Bank,MEDIUM,
+Morocco,Quality_Indicators,Digital_Literacy_Rate,64,,,,,2023,ITU,HIGH,
+Morocco,Quality_Indicators,Numeracy_Proficiency_Pct,68,,,,,2022,National_Assessment,MEDIUM,
+Morocco,Quality_Indicators,PISA_Reading_Score,359,,,,,2018,OECD_PISA,HIGH,Far below OECD average
+Morocco,Quality_Indicators,Early_Marriage_Rate_Girls_Under18,14,,,,,2023,UNICEF,HIGH,
+Morocco,Disparities,Rural_Urban_Literacy_Gap_Points,25.8,,,,,,2024,UNESCO_2022,HIGH,Critical inequality
+
+Sudan,Literacy_Rates,Adult_Literacy_Rate_15plus,60.7,71.0,50.4,76.5,52.0,2018,World_Bank_2023,MEDIUM,Pre-conflict data
+Sudan,Literacy_Rates,Youth_Literacy_Rate_15to24,75.0,81.5,68.5,84.0,68.0,2018,World_Bank_2023,MEDIUM,
+Sudan,Gender_Parity,Adult_Literacy_GPI,0.710,,,,,2018,World_Bank_2023,MEDIUM,Severe gender gap
+Sudan,Gender_Parity,Youth_Literacy_GPI,0.840,,,,,2018,World_Bank_2023,MEDIUM,
+Sudan,Gender_Parity,Primary_Enrollment_GPI,0.86,,,,,2018,World_Bank_EdStats,MEDIUM,
+Sudan,Gender_Parity,Secondary_Enrollment_GPI,0.78,,,,,2018,World_Bank_EdStats,MEDIUM,
+Sudan,Gender_Parity,Overall_Gender_Gap_Index,0.313,,,,,2025,WEF_Global_Gender_Gap_Report,HIGH,31.3% - WORST GLOBALLY
+Sudan,Enrollment_Completion,Primary_Enrollment_Rate,77.8,,,,,2018,World_Bank_EdStats,MEDIUM,Pre-conflict
+Sudan,Enrollment_Completion,Secondary_Enrollment_Rate,45.2,,,,,2018,World_Bank_EdStats,MEDIUM,
+Sudan,Enrollment_Completion,Primary_Completion_Rate,68.9,,,,,2018,World_Bank_EdStats,MEDIUM,
+Sudan,Enrollment_Completion,Secondary_Completion_Rate,38.5,,,,,2018,World_Bank_EdStats,MEDIUM,
+Sudan,Enrollment_Completion,Out_of_School_Children_thousands,3200,,,,,2023,UNICEF,HIGH,70% of school-age children
+Sudan,Teacher_Quality,Primary_Pupil_Teacher_Ratio,45,,,,,2018,UNESCO_UIS,MEDIUM,Severe overcrowding
+Sudan,Teacher_Quality,Secondary_Pupil_Teacher_Ratio,38,,,,,2018,UNESCO_UIS,MEDIUM,
+Sudan,Teacher_Quality,Pct_Trained_Teachers_Primary,52,,,,,2018,UNESCO_UIS,MEDIUM,48% untrained
+Sudan,Teacher_Quality,Govt_Expenditure_Education_Pct_GDP,2.2,,,,,2023,World_Bank,MEDIUM,Crisis-level low
+Sudan,Demographics,Population_Millions,45.7,,,,,2024,World_Bank,MEDIUM,
+Sudan,Demographics,Pct_Population_Under_25,60,,,,,2024,World_Bank,HIGH,Massive youth bulge
+Sudan,Demographics,Illiterate_Population_Millions,18.0,6.2,11.8,,,2018,Calculated_from_World_Bank,MEDIUM,66% are women
+Sudan,Demographics,GDP_per_Capita_USD,1428,,,,,2024,World_Bank,MEDIUM,
+Sudan,Demographics,Poverty_Rate_Pct,46,,,,,2023,World_Bank,MEDIUM,
+Sudan,Quality_Indicators,Digital_Literacy_Rate,31,,,,,2023,ITU,MEDIUM,
+Sudan,Quality_Indicators,Numeracy_Proficiency_Pct,45,,,,,2020,ERF_Study,LOW,Estimated
+Sudan,Quality_Indicators,PISA_Reading_Score,,,,,,,N/A,Not participating in PISA
+Sudan,Quality_Indicators,Early_Marriage_Rate_Girls_Under18,34,,,,,2023,UNICEF,HIGH,1 in 3 girls
+Sudan,Disparities,Rural_Urban_Literacy_Gap_Points,24.5,,,,,,2018,World_Bank,MEDIUM,
+
+Morocco_Intervention,Spending_Outcomes,Annual_Spending_MAD_Millions_2014,182,,,,,2014,Morocco_Court_of_Accounts_2025,HIGH,
+Morocco_Intervention,Spending_Outcomes,Annual_Spending_MAD_Millions_2023,371,,,,,2023,Morocco_Court_of_Accounts_2025,HIGH,
+Morocco_Intervention,Spending_Outcomes,Illiteracy_Rate_2014,47.7,,,,,2014,Morocco_Court_of_Accounts_2025,HIGH,
+Morocco_Intervention,Spending_Outcomes,Illiteracy_Rate_2024,27.9,,,,,2024,HCP_Census_2024,HIGH,
+Morocco_Intervention,Spending_Outcomes,Registered_Learners_thousands_2014,674,,,,,2014,Morocco_Court_of_Accounts_2025,HIGH,
+Morocco_Intervention,Spending_Outcomes,Registered_Learners_thousands_2023,852,,,,,2023,Morocco_Court_of_Accounts_2025,HIGH,
+Morocco_Intervention,Spending_Outcomes,Total_Beneficiaries_Millions_2015to2023,7.7,,,,,2015-2023,Morocco_Court_of_Accounts_2025,HIGH,
+Morocco_Intervention,Spending_Outcomes,Cost_per_Percentage_Point_USD_Millions,15.2,,,,,2014-2024,Calculated,HIGH,$300M / 19.8 points
+Morocco_Intervention,Spending_Outcomes,Cost_per_Person_USD,40.86,,,,,2023,Calculated,HIGH,371M MAD / 852K learners
+Morocco_Intervention,Tayssir_Program,Enrollment_Increase_Pct,41,,,,,2008-2022,The_Conversation_2025,HIGH,
+Morocco_Intervention,Tayssir_Program,Class_Size_Increase_Pct,12,,,,,2008-2022,The_Conversation_2025,HIGH,3.6 students added
+Morocco_Intervention,Tayssir_Program,Learning_Quality_Change_Pct,-8,,,,,2008-2022,The_Conversation_2025,HIGH,Negative impact
+Morocco_Intervention,Tayssir_Program,Dropout_Rate_Reduction_Points,1.3,,,,,2008-2022,The_Conversation_2025,HIGH,41% reduction
+
+Sudan_Regional,Oxford_NLA,National_NonReaders_Pct,40,,,,,2018,Oxford_University_2018,HIGH,Can't read single word
+Sudan_Regional,Oxford_NLA,Central_Darfur_NonReaders_Pct,71,,,,,2018,Oxford_University_2018,HIGH,Worst region
+Sudan_Regional,Oxford_NLA,West_Darfur_NonReaders_Pct,65,,,,,2018,Oxford_University_Estimated,MEDIUM,
+Sudan_Regional,Oxford_NLA,South_Darfur_NonReaders_Pct,58,,,,,2018,Oxford_University_Estimated,MEDIUM,
+Sudan_Regional,Oxford_NLA,Blue_Nile_NonReaders_Pct,52,,,,,2018,Oxford_University_Estimated,MEDIUM,
+Sudan_Regional,Oxford_NLA,Khartoum_NonReaders_Pct,20,,,,,2018,Oxford_University_2018,HIGH,
+Sudan_Regional,Oxford_NLA,Northern_State_NonReaders_Pct,16,,,,,2018,Oxford_University_2018,HIGH,Best region
+Sudan_Intervention,Oxford_Program,National_Broad_Baseline_Pct,40,,,,,2016,Oxford_University_2018,HIGH,
+Sudan_Intervention,Oxford_Program,National_Broad_PostIntervention_Pct,39,,,,,2018,Oxford_University_2018,HIGH,1-point gain
+Sudan_Intervention,Oxford_Program,Worst_Schools_Baseline_Pct,47,,,,,2016,Oxford_University_2018,HIGH,
+Sudan_Intervention,Oxford_Program,Worst_Schools_PostIntervention_Pct,42,,,,,2018,Oxford_University_2018,HIGH,5-point gain
+Sudan_Intervention,Literacy_at_Well,Cost_per_Site_USD,4000,,,,,2024,Borgen_Project_2024,HIGH,
+Sudan_Intervention,Literacy_at_Well,People_Served_per_Site,200,,,,,2024,Borgen_Project_2024,HIGH,Women only
+Sudan_Intervention,Literacy_at_Well,Cost_per_Person_USD,20,,,,,2024,Calculated,HIGH,Most efficient model
+Sudan_Intervention,Literacy_at_Well,Number_of_Sites_Operating,6,,,,,2024,Borgen_Project_2024,HIGH,
+Sudan_Intervention,Literacy_at_Well,Total_Students_Served,1200,,,,,2024,Borgen_Project_2024,MEDIUM,6 sites x 200

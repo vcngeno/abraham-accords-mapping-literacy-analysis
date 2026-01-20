@@ -1,0 +1,15 @@
+Feature,Importance,Feature_Clean
+Secondary_Enrollment_Rate,0.26305552936717164,Secondary Enrollment Rate
+Gender_Parity_Index,0.18488785917034148,Gender Parity Index
+Learning_Quality_Index,0.1667668796090004,Learning Quality Index
+Rural_Urban_Gap,0.14714943877440997,Rural Urban Gap
+Out_of_School_Children_thousands,0.12772412823364127,Out Of School Children Thousands
+Primary_Enrollment_Rate,0.025892846991869296,Primary Enrollment Rate
+Year,0.025544822983567028,Year
+Country_UAE,0.024807325915427933,Country Uae
+Annual_Beneficiaries_thousands,0.016226627017740667,Annual Beneficiaries Thousands
+Annual_Investment_USD_Millions,0.0161650647069662,Annual Investment Usd Millions
+Conflict_Severity,0.0006317853203734602,Conflict Severity
+Country_MAR,0.0005908975232047081,Country Mar
+Country_SDN,0.0005567943862859322,Country Sdn
+Country_ISR,0.0,Country Isr
