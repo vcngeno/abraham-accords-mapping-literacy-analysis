@@ -1,3 +1,5 @@
+![Abraham Accords Literacy Initiative](docs/abraham_accords_banner.jpg)
+
 # Abraham Accords Literacy Initiative
 
 **Mapping Literacy for Humanity: Evidence-Based Investment Strategy**
@@ -213,7 +215,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 
 
-```Ngeno, V. (2025). The Abraham Accords Nations Literacy Analysis: Mapping Literacy for Humanity
+```{Ngeno, V. (2025). The Abraham Accords Nations Literacy Analysis: Mapping Literacy for Humanity}
 ```
 
 ---
