@@ -157,7 +157,6 @@ st.markdown("""
 <div class="main-header">
     <h1>Abraham Accords Literacy Initiative</h1>
     <h3>Evidence-Based Investment Strategy for 27.1 Million Lives</h3>
-    <p>Two-Phase Implementation: $950M Available | $1.3B Total Need</p>
 </div>
 """, unsafe_allow_html=True)
 
