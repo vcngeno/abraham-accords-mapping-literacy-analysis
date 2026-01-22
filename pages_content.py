@@ -499,16 +499,18 @@ def render_feature_importance(feature_importance):
     </div>
     """, unsafe_allow_html=True)
     
-    # Feature importance chart
+    # Feature importance chart - reverse order so highest is at top
+    feature_importance_sorted = feature_importance.iloc[::-1].copy()
+    
     fig = go.Figure(data=[go.Bar(
-        y=feature_importance['Feature'],
-        x=feature_importance['Importance'],
+        y=feature_importance_sorted['Feature'],
+        x=feature_importance_sorted['Importance'],
         orientation='h',
-        text=feature_importance['Importance'].round(1),
+        text=feature_importance_sorted['Importance'].round(1),
         textposition='outside',
         marker_color=['#10b981' if cat == 'Systemic' else '#3b82f6' if cat == 'Infrastructure' 
                      else '#f59e0b' if cat == 'Temporal' else '#64748b' if cat == 'Context'
-                     else '#ef4444' for cat in feature_importance['Category']]
+                     else '#ef4444' for cat in feature_importance_sorted['Category']]
     )])
     
     fig.update_layout(
@@ -709,12 +711,11 @@ def render_policy_recommendations(aalni_data, projections_2030):
     <div class="success-box">
     <h4>Phase 1 Immediate Deployment ($950M)</h4>
     <ul>
-        <li><strong>Morocco:</strong> $135.3M → SDG 4 achievement by 2028 (proof of concept)</li>
-        <li><strong>High Performers:</strong> $35M → Excellence maintenance (Israel, UAE, Bahrain)</li>
-        <li><strong>Sudan:</strong> $700M → Conflict-resilient programs in accessible populations</li>
-        <li><strong>M&E Infrastructure:</strong> $80M → Core monitoring systems</li>
+        <li><strong>Morocco:</strong> $135.3M → SDG 4 achievement by 2028</li>
+        <li><strong>High Performers:</strong> $35M → Excellence maintenance</li>
+        <li><strong>Sudan:</strong> $700M → Conflict-resilient programs</li>
+        <li><strong>M&E Infrastructure:</strong> $80M → Core monitoring</li>
     </ul>
-    <p><strong>Expected Outcomes:</strong> 8.7M beneficiaries; Morocco demonstrates model; Sudan prevents further decline</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -722,11 +723,10 @@ def render_policy_recommendations(aalni_data, projections_2030):
     <div class="insight-box">
     <h4>Phase 2 Conditional Funding ($357.5M)</h4>
     <ul>
-        <li><strong>Trigger #1:</strong> Phase 1 demonstrates 5-10 point literacy gains in stable zones</li>
-        <li><strong>Trigger #2:</strong> Sudan conflict severity ≤ 2.0 (improved stability)</li>
-        <li><strong>Trigger #3:</strong> M&E systems operational and producing reliable data</li>
+        <li><strong>Trigger #1:</strong> Phase 1 demonstrates 5-10 point gains</li>
+        <li><strong>Trigger #2:</strong> Sudan conflict severity ≤ 2.0</li>
+        <li><strong>Trigger #3:</strong> M&E systems operational</li>
     </ul>
-    <p><strong>Allocation:</strong> Sudan systemic transformation ($267M) + Comprehensive M&E ($91M)</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -738,19 +738,19 @@ def render_policy_recommendations(aalni_data, projections_2030):
     with col1:
         st.markdown("""
         **Morocco:**
-        - Accept $135.3M allocation for continued momentum
-        - Prioritize rural expansion (25.8-point gap)
-        - Close gender parity gap (currently 0.81 GPI)
-        - Target: SDG 4 achievement by 2028
+        - Accept $135.3M allocation
+        - Prioritize rural expansion
+        - Close gender parity gap
+        - Target: SDG 4 by 2028
         """)
     
     with col2:
         st.markdown("""
         **Sudan:**
-        - Accept $700M Phase 1 emergency literacy
-        - Focus on accessible populations during conflict
-        - Build readiness for Phase 2 deployment when stable
-        - Engage in ceasefire negotiations (prerequisite for Phase 2)
+        - Accept $700M Phase 1
+        - Focus on accessible populations
+        - Build Phase 2 readiness
+        - Engage in ceasefire negotiations
         """)
     
     # For Development Community
@@ -758,17 +758,15 @@ def render_policy_recommendations(aalni_data, projections_2030):
     
     st.markdown("""
     **Adopt the AALNI Framework:**
-    - First standardized regional literacy assessment tool
+    - First standardized regional literacy tool
     - Evidence-based, transparent, conflict-adjusted
     - Replicable across any multi-country initiative
-    - Proven methodology: Morocco validation + Random Forest analysis
     
     **Focus on the 88.9% Rule:**
     - Invest in systemic factors, not just budgets
-    - Secondary enrollment, gender parity, learning quality, rural access, out-of-school children
-    - These 5 factors explain 88.9% of outcomes
+    - Secondary enrollment, gender parity, learning quality, rural access
     
-    **Learn from Real-World Precedents:**
+    **Learn from Precedents:**
     - Afghanistan, Rwanda, Colombia demonstrate phased approach works
     - Humanitarian response during conflict → Systemic transformation post-conflict
     """)
