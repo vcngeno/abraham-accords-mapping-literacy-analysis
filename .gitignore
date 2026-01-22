@@ -20,3 +20,7 @@ venv/
 # IDEs
 .vscode/
 .idea/
+*.jpg
+*.png
+*.html
+*.ipynb
