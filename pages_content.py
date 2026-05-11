@@ -332,13 +332,13 @@ def render_sudan_analysis(sudan_conflict):
         xaxis_title="Year",
         yaxis=dict(
             title="Literacy Rate (%)",
-            titlefont=dict(color='#3b82f6'),
+            title_font=dict(color='#3b82f6'),
             tickfont=dict(color='#3b82f6'),
             range=[50, 65]
         ),
         yaxis2=dict(
             title="Conflict Intensity (0-10 scale)",
-            titlefont=dict(color='#ef4444'),
+            title_font=dict(color='#ef4444'),
             tickfont=dict(color='#ef4444'),
             overlaying='y',
             side='right',
